@@ -1,0 +1,219 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hellovr_opengl.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  functionmesh.cpp
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(170): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(171): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(172): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(182): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(202): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(255): warning C4309: 'initializing': truncation of constant value
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(260): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(261): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(262): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(263): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(264): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(265): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(266): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(267): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(268): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(269): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(270): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(271): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(305): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(306): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(307): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(310): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(311): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(312): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(315): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(316): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(317): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(320): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(321): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(322): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(325): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(326): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(327): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(330): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(331): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(332): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(335): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(336): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(337): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(340): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(341): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(342): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(347): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(349): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(351): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(352): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(353): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(357): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(358): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(359): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(361): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(362): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(363): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(367): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(368): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(369): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(371): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(372): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(373): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(377): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(378): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(379): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(381): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(382): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(383): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(387): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(388): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(389): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(391): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(392): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(393): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(397): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(398): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(399): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(401): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(402): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(403): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(407): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(408): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(409): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(411): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(412): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(413): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(417): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(418): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(419): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(421): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(422): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(423): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(428): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(429): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(431): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(432): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(433): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(437): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(438): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(439): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(441): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(442): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(443): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(447): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(448): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(449): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(451): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(452): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(453): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(457): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(458): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(459): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(461): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(462): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(463): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(470): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(471): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(472): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(476): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(477): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(478): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(482): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(483): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(484): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(488): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(489): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(490): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(495): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(496): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(497): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(501): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(502): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(507): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(508): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(509): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(513): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(514): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(515): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(520): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(521): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(522): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(526): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(527): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(528): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(532): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(533): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(534): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(538): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(539): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(540): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(545): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(546): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(547): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(551): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(552): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(553): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(558): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(559): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(563): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(564): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(565): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(570): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(571): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(572): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(576): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(577): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(578): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(582): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(583): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(584): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(589): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(595): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(596): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(597): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(601): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(602): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(603): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(607): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(608): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(609): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(613): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(614): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(615): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(620): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(621): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(625): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(626): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(630): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(631): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(636): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(637): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(638): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(639): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(643): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(644): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(645): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(646): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(647): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(648): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(649): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(653): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(657): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(658): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(659): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sebastian\documents\projectivevisualizervr\functionmesh.cpp(660): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  strtools.cpp
+  pathtools.cpp
+  lodepng.cpp
+  Matrices.cpp
+  hellovr_opengl.vcxproj -> C:\Users\Sebastian\Documents\ProjectiveVisualizerVR\bin\ProjectiveViewerVR.exe

@@ -1,0 +1,11 @@
+﻿  lodepng.cpp
+  Matrices.cpp
+  pathtools.cpp
+  strtools.cpp
+..\shared\strtools.cpp(146): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(343): note: see declaration of 'strncpy'
+  hellovr_opengl_main.cpp
+  Generating code
+  All 942 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hellovr_opengl.vcxproj -> C:\Users\Sebastian\Documents\openvr-master\samples\hellovr_opengl\..\bin\win32\hellovr_opengl.exe
